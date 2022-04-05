@@ -2057,6 +2057,7 @@ return array(
     'Laravel\\Sail\\Console\\InstallCommand' => $vendorDir . '/laravel/sail/src/Console/InstallCommand.php',
     'Laravel\\Sail\\Console\\PublishCommand' => $vendorDir . '/laravel/sail/src/Console/PublishCommand.php',
     'Laravel\\Sail\\SailServiceProvider' => $vendorDir . '/laravel/sail/src/SailServiceProvider.php',
+    'Laravel\\Sanctum\\Console\\Commands\\PruneExpired' => $vendorDir . '/laravel/sanctum/src/Console/Commands/PruneExpired.php',
     'Laravel\\Sanctum\\Contracts\\HasAbilities' => $vendorDir . '/laravel/sanctum/src/Contracts/HasAbilities.php',
     'Laravel\\Sanctum\\Contracts\\HasApiTokens' => $vendorDir . '/laravel/sanctum/src/Contracts/HasApiTokens.php',
     'Laravel\\Sanctum\\Events\\TokenAuthenticated' => $vendorDir . '/laravel/sanctum/src/Events/TokenAuthenticated.php',
